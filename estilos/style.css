@@ -1,31 +1,47 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    text-align: justify;
+    text-indent: 15px;
+    padding: 5px;
 }
 
 body{
     background-color: #acacff ;
 }
-
 main {
     background-color: white;
-    width: 560px;
+    width: 600px;
     margin: auto;
-    padding: 10px;
+    padding: 20px;    
     box-shadow: 3px 3px 5px rgba( 0,0,0,.473);
+    
 }
+hr {
+    width: 580px;
+    border: 0;
+    border-top: 1px solid rgb(58, 0, 112);
+     }
 
 h1 {
     font-size: 2em;
     color: rgb(58, 0, 112);
+    margin-top: 100px;
+    text-align: center;
 }
 
 h2 {
     font-size: 1.5em;
     color: rgb(58, 0, 112);
+    margin-top: 30px;
 }
 img.lado {
     float: right;
+    padding: 10px;
+}
+img.logo{
+    margin-top: 10px;
+    float: left;
 }
 
 a{
