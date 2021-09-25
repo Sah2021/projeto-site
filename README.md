@@ -1,6 +1,5 @@
 # projeto-site
 ## Atividade do Curso de Git e Github ##
-
 --- 
 
 Esse é um projeto simples, de um site, para estudo do Git e do Github. <br>
